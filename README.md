@@ -5,7 +5,7 @@ This was my first ever coding project while doing Code Instute's 5 day coding bo
 
 OBJECTIVE :- 
 
--> Getting cursory and fundamental knowledge of HTML, CSS and JScript.
+-> Getting cursory and fundamental knowledge of HTML, CSS and a bit of JScript.
 
 -> Learn the concept of Responsive Web Design by building a website that will automatically adjust and adept to the screen size of whatever device the user is on.
 
