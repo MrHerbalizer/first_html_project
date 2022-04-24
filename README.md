@@ -7,6 +7,6 @@ OBJECTIVE :-
 
 -> Getting cursory and fundamental knowledge of HTML, CSS and JScript.
 
--> Taking first step in tech industry by designing a responsive website.
+-> Learn the concept of Responsive Web Design by building a website that will automatically adjust and adept to the screen size of whatever device the user is on.
 
-About this project :-
+
